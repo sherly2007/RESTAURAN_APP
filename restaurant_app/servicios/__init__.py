@@ -1,0 +1,1 @@
+# Módulo con la lógica de gestión del restaurante
